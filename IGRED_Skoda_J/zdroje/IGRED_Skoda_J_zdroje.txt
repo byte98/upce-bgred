@@ -1,3 +1,10 @@
+Poznamky k semestralni praci:
+ - jelikoz nejsem drzitelem licence programu Adobe Photoshop, tak je tato semestralni prace vytvorean v programu Paint.Net
+ - soubor IGRED_Skoda_J/sem_prace/IGRED_Skoda_J_semprace.tiff obsahuje vystup tohoto programu
+ - soubor IGRED_Skoda_J/sem_prace/IGRED_Skoda_J_semprace.zip obsahuje jednotlivy vrstvy pouzite pri vytvareni teto semestralni prace
+
+######### SEZNAM POUZITYCH ZDROJU #########
+
 IGRED_Skoda_J/podklady/buildings-5901178.jpg
 By Marek at https://pixabay.com/photos/buildings-skyscrapers-architecture-5901178/
 
